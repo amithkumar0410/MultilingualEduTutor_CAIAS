@@ -79,7 +79,7 @@ MONGO_URI = "mongodb://localhost:27017/"
 DB_NAME = "auth_db"
 
 SENDER = "thinkersinfinty@gmail.com"
-PASSWORD = "wruq fttg khtk pocr"
+PASSWORD = "app password"
 
 client = MongoClient(MONGO_URI)
 db = client[DB_NAME]
